@@ -1,0 +1,39 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+
+    <style name="navigation_drawer_list_view_header">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/navigation_drawer_list_header_text_size</item>
+        <item name="android:paddingLeft">@dimen/navigation_drawer_list_header_padding_left</item>
+    </style>
+
+    <style name="navigation_drawer_list_view_item_arrow">
+        <item name="android:layout_width">@dimen/navigation_drawer_list_item_height</item>
+        <item name="android:layout_height">@dimen/navigation_drawer_list_item_height</item>
+        <item name="android:scaleType">centerInside</item>
+    </style>
+
+    <style name="navigation_drawer_list_vertical_divider">
+        <item name="android:layout_marginTop">@dimen/navigation_drawer_list_vdivider_margin</item>
+        <item name="android:layout_marginBottom">@dimen/navigation_drawer_list_vdivider_margin</item>
+        <item name="android:layout_width">@dimen/navigation_drawer_list_vdivider_width</item>
+        <item name="android:background">@color/navigation_drawer_list_v_divider</item>
+    </style>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="48dp"
+    android:background="@android:drawable/list_selector_background">
+
+    <View
+        android:id="@+id/navigation_drawer_list_separator"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/navigation_drawer_list_divider_height"
+        android:background="@color/navigation_drawer_list_divider"
+        android:layout_marginTop="@dimen/navigation_drawer_list_divider_margin_top"
+        android:layout_alignParentBottom="true"
+        />
+
+    <ImageView
+        style="@style/navigation_drawer_list_view_item_arrow"
+        android:background="@android:drawable/list_selector_background"
+        android:src="@drawable/ic_details"
+        android:id="@+id/navigation_drawer_list_item_arrow"
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true"
+        android:contentDescription="@string/content_description"
+        />
+
+    <View
+        android:id="@+id/navigation_drawer_list_vertical_divider"
+        style="@style/navigation_drawer_list_vertical_divider"
+        android:layout_height="fill_parent"
+        android:layout_toLeftOf="@id/navigation_drawer_list_item_arrow"
+        />
+
+    <TextView
+        android:id="@+id/navigation_drawer_list_item_title"
+        android:textIsSelectable="false"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_toLeftOf="@id/navigation_drawer_list_vertical_divider"
+        android:layout_above="@id/navigation_drawer_list_separator"
+        android:gravity="start|bottom"
+        android:textColor="@color/navigation_drawer_list_header_text"
+        style="@style/navigation_drawer_list_view_header"/>
+</RelativeLayout>

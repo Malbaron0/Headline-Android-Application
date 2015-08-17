@@ -1,0 +1,9 @@
+<resources>
+	<color name="tabTransparent">#10ffffff</color>
+	<color name="background">#fafafa</color>
+
+    <color name="navigation_drawer_list_divider">#e0e0e0</color>
+    <color name="navigation_drawer_list_header">#168686</color>
+    <color name="navigation_drawer_list_v_divider">#E0E0E0</color>
+    <color name="navigation_drawer_list_header_text">#333333</color>
+</resources>

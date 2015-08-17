@@ -1,0 +1,21 @@
+<!-- activity_postlist.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity$PlaceholderFragment"
+    android:orientation="vertical"
+    android:background="#FFFFFF">
+
+    <LinearLayout android:id="@+id/adsContainer"
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"/>
+
+    <com.jmsliu.rssreader.component.RefreshableListView
+        android:id="@+id/postListView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:divider="@drawable/divider"
+        android:dividerHeight="2dp"/>
+</LinearLayout>
