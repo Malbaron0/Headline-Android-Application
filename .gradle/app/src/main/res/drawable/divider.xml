@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:left="6dp" android:right="6dp">
+        <shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="line">
+            <stroke android:width="1px" android:color="#8F8F8F" android:dashWidth="1px" android:dashGap="1px"/>
+        </shape>
+    </item>
+    <item android:left="6dp" android:right="6dp">
+        <shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="line">
+            <stroke android:width="1px" android:color="#FFFFFF" android:dashWidth="1px" android:dashGap="1px"/>
+        </shape>
+    </item>
+</layer-list>

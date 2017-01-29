@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Malyar\Documents\Headline-Android-Application\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Malyar\Documents\Headline-Android-Application\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_2230c2df725e9ffe496c4f89b0e19350ef9f331c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Malyar\Documents\Headline_Projects\RssReader\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Malyar\Documents\Headline_Projects\RssReader\app\build\intermediates\pre-dexed\debug\classes-434ef55e52840302c83bc82f990bb02fbe2af8b7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Malyar\Documents\Headline_Projects\RssReader\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Malyar\Documents\Headline_Projects\RssReader\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-d466538fb29ba226d5ffdb405afa3f6e4516ddec.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Malyar\Documents\Headline-Android-Application\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Malyar\Documents\Headline-Android-Application\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.3_9981dcbd2cf978dbadb07135b24ac15245641d8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Malyar\Documents\Headline-Android-Application\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="e67853228d8e42c0069448d7675aa8e82da9d457">
+        <dex dex="C:\Users\Malyar\Documents\Headline-Android-Application\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_55826d4d70ed770bcc3795cfe91213037f7a38ee\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Malyar\Documents\Headline_Projects\RssReader\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Malyar\Documents\Headline_Projects\RssReader\app\build\intermediates\pre-dexed\debug\classes-5f8f8e13fd807220c56c68e2c010f0ca46ffcca7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Malyar\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Malyar\Documents\Headline-Android-Application\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_f7d06784efa3b08324ecbad80145b34a622dd6b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Malyar\Documents\Headline-Android-Application\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="f7433f48079ea6810c7b6a232b85e6ae8da51339">
+        <dex dex="C:\Users\Malyar\Documents\Headline-Android-Application\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_16852adbbcd262c0891f52bbc11fd206df51f609\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Malyar\Documents\Headline-Android-Application\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Malyar\Documents\Headline-Android-Application\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-21.0.3_4babb8e6e879c44e54551342e02ba87f3e88d52a\classes.dex" />
+    </item>
+
+</items>

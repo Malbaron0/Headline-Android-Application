@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="app_name">Headline</string>
+    <string name="action_settings">About</string>
+    <string name="postlistlabel">Headline</string>
+    <string name="postviewlabel">Headline</string>
+    <string name="head_arrowImage">head_arrowImage</string>
+    <string name="pull_to_refresh">Pull down to refresh…</string>
+    <string name="pull_to_refresh_date">Last Update: 2015 January 25</string>
+    <string name="release_to_refresh">Release to refresh…</string>
+    <string name="loading">Loading…</string>
+    <string name="footer_loading">Click to load more…</string>
+    <string name="splash_screen">Splash Screen Image</string>
+    <string name="content_description">Content Description</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
