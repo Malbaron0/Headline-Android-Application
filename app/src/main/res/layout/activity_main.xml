@@ -13,7 +13,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:tag="postlist_fragment"
-            android:name="com.jmsliu.rssreader.PostListFragment"/>
+            android:name="com.baron.rssreader.PostListFragment"/>
     </FrameLayout>
 
     <!-- android:layout_gravity="start" tells DrawerLayout to treat
@@ -25,7 +25,7 @@
          the container. -->
     <fragment android:id="@+id/navigation_drawer"
         android:layout_width="@dimen/navigation_drawer_width" android:layout_height="match_parent"
-        android:layout_gravity="start" android:name="com.jmsliu.rssreader.NavigationDrawerFragment"
+        android:layout_gravity="start" android:name="com.baron.rssreader.NavigationDrawerFragment"
         tools:layout="@layout/fragment_navigation_drawer" />
 
 </android.support.v4.widget.DrawerLayout>
